@@ -6,6 +6,7 @@ import EditEmp from './components/editEmp';
 import Show from './components/showEmploye';
 import Register from './components/register';
 import Login from './components/login';
+import Departement from './components/departement/departement';
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <Route path="/create" element={<CreateEmp/>}></Route>
         <Route path="/edit/:id" element={<EditEmp />}></Route>
         <Route path="/show/:id" element={<Show />}></Route>
+        <Route path="/dep" element={<Departement />}></Route>
       </Routes>
     </Router>
   );

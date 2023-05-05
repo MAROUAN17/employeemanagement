@@ -24,9 +24,15 @@ export default function Sidebar() {
     <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
 
     <li class="nav-item">
-        <a href="iframe.html" class="nav-link">
+        <a href="/emp" class="nav-link">
         <i class="nav-icon fas fa-ellipsis-h"></i>
         <p>Employees</p>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a href="/dep" class="nav-link">
+        <i class="nav-icon fas fa-ellipsis-h"></i>
+        <p>Departements</p>
         </a>
     </li>
     </ul>

@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -77,3 +78,6 @@ Employee Management using Laravel and ReactJS
 =======
 
 >>>>>>> 3b05eb3ee0d7e6299b11a1bb9565f8617ffeaf3b
+=======
+
+>>>>>>> b1a1d8ca1d5a6eb909563ff49fb035f4049f8673
